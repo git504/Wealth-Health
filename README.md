@@ -10,10 +10,10 @@ _**HRnet**_ is an internal web application of the **Wealth Health** company.
 
 app issues:
 
-- React **Create Employee** page
-- React **Employee List** page
+- **Create Employee** React page
+- **Employee List** React page
 - Add a **state management** system
-- Consistent **style**
+- Complete with a consistent **style**
 - Only manual **tests** are needed
 
 jQuery plugins issues :
