@@ -33,7 +33,7 @@ _**HRnet**_ is an internal web application of the **Wealth Health** company.
 - [react-datepicker](https://www.npmjs.com/package/react-datepicker) : A simple and reusable Datepicker component for React
 - [react-select](https://github.com/git504/Wealth-Health) : A simple and reusable select component for React
 
-☑️ [**modal**](https://github.com/git504/P12_Front-end) : A simple and reusable modal component for React V1
+☑️ [**modal**](https://github.com/git504/modal-Wealth-Health) : A simple and reusable modal component for React V1
 
 ---
 
@@ -57,4 +57,4 @@ npm i && npm start
 
 ## ∡ Lighthouse Performance testing
 
-[LightHouse performance report]()
+[LightHouse performance report](https://github.com/git504/Wealth-Health/tree/main/specs/Lighthouse)
