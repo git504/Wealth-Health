@@ -10,15 +10,15 @@ _**HRnet**_ is an internal web application of the **Wealth Health** company.
 
 ## 🔖 app issues
 
-☑️ **Create Employee** React page
+✅ **Create Employee** React page
 
-☑️ **Employee List** React page
+✅ **Employee List** React page
 
-☑️ Add a **state management** system
+✅ Add a **state management** system
 
-☑️ Complete with a consistent **style**
+✅ Complete with a consistent **style**
 
-☑️ Only manual **tests** are needed
+✅ Only manual **tests** are needed
 
 ## 🔖 jQuery plugins issues :
 
@@ -33,7 +33,7 @@ _**HRnet**_ is an internal web application of the **Wealth Health** company.
 - [react-datepicker](https://www.npmjs.com/package/react-datepicker) : A simple and reusable Datepicker component for React
 - [react-select](https://github.com/git504/Wealth-Health) : A simple and reusable select component for React
 
-☑️ [**modal**](https://github.com/git504/modal-Wealth-Health) : A simple and reusable modal component for React V1
+✅ [**modal**](https://github.com/git504/modal-Wealth-Health) : A simple and reusable modal component for React V1
 
 ---
 
