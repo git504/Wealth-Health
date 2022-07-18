@@ -8,27 +8,32 @@ _**HRnet**_ is an internal web application of the **Wealth Health** company.
 
 # Convert [HRNet jQuery app](https://github.com/git504/P12_Front-end) to a React application
 
-app issues:
+## 🔖 app issues
 
-- **Create Employee** React page
-- **Employee List** React page
-- Add a **state management** system
-- Complete with a consistent **style**
-- Only manual **tests** are needed
+☑️ **Create Employee** React page
 
-jQuery plugins issues :
+☑️ **Employee List** React page
+
+☑️ Add a **state management** system
+
+☑️ Complete with a consistent **style**
+
+☑️ Only manual **tests** are needed
+
+## 🔖 jQuery plugins issues :
 
 - [jQuery **Date Selector Plugin**](https://github.com/OpenClassrooms-Student-Center/P12_Front-end/issues/1)
 - [jQuery **Drop down menus**](https://github.com/OpenClassrooms-Student-Center/P12_Front-end/issues/4)
 - [jQuery **Plugin for data table selection**](https://github.com/OpenClassrooms-Student-Center/P12_Front-end/issues/2)
 - [jQuery **Modal window plugin**](https://github.com/OpenClassrooms-Student-Center/P12_Front-end/issues/3)
 
-You will transform a **jQuery plugin** of the site **into React** :
+## 🔖 You will transform a **jQuery plugin** of the site **into React** :
 
 - [react-table](https://www.npmjs.com/package/react-table) : React Table v7
 - [react-datepicker](https://www.npmjs.com/package/react-datepicker) : A simple and reusable Datepicker component for React
 - [react-select](https://github.com/git504/Wealth-Health) : A simple and reusable select component for React
-- [**modal**](https://github.com/git504/P12_Front-end) : A simple and reusable modal component for React V1
+
+☑️ [**modal**](https://github.com/git504/P12_Front-end) : A simple and reusable modal component for React V1
 
 ---
 
