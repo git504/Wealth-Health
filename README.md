@@ -55,4 +55,6 @@ npm i && npm start
 
 ---
 
-## ∡ [Lighthouse](specs/Lighthouse) Performance testing
+## ∡ Lighthouse Performance testing
+
+[LightHouse performance report]()
